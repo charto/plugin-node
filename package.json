@@ -1,0 +1,8 @@
+{
+  "name": "plugin-node",
+  "version": "0.0.1",
+  "description": "System.js plugin for loading Node.js modules that need Node's internal require().",
+  "main": "plugin.js",
+  "author": "Juha Järvi",
+  "license": "MIT"
+}
